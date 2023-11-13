@@ -1,0 +1,122 @@
+[
+  {
+    "title": "The Spiritual Capital of India",
+    "city": "Varanasi, Uttar Pradesh",
+    "distance": 500,
+    "address": "Varanasi, Uttar Pradesh, India",
+    "price": 79,
+    "maxGroupSize": 10,
+    "desc": "World's oldest living city, Varanasi - also known as Kashi (City of Life) and Benaras",
+    "reviews": [],
+    "photo": "/tour-images/tour-img01.jpg",
+    "featured": true
+  },
+  {
+    "title": "Kullu-Manali",
+    "city": "Kullu District, H.P",
+    "distance": 400,
+    "address": "Himachal Pradesh, India",
+    "price": 96,
+    "maxGroupSize": 8,
+    "desc": "Manali is a magical hill station at the northern end of Kullu valley in Himachal Pradesh.",
+    "reviews": [],
+    "photo": "/tour-images/tour-img02.jpg",
+    "featured": true
+  },
+  {
+    "title": "Taj Mahal",
+    "city": "Agra",
+    "distance": 500,
+    "address": "Agra, Uttar Pradesh, India",
+    "price": 76,
+    "maxGroupSize": 8,
+    "desc": "The Taj Mahal is one of the seven wonders of the world.",
+    "reviews": [],
+    "photo": "/tour-images/tour-img03.jpg",
+    "featured": true
+  },
+  {
+    "title": "The Scotland of India",
+    "city": "Coorg, Karnataka",
+    "distance": 500,
+    "address": "Karnataka, India",
+    "price": 85,
+    "maxGroupSize": 8,
+    "desc": "Coorg is a popular coffee producing hill station.",
+    "reviews": [],
+    "photo": "/tour-images/tour-img04.jpg",
+    "featured": true
+  },
+  {
+    "title": "Blue Seas in India",
+    "city": "Andaman & Nicobar Islands",
+    "distance": 500,
+    "address": "Andaman & Nicobar Islands, India",
+    "price": 75,
+    "maxGroupSize": 8,
+    "desc": "Blue seas, virgin islands and colonial past with sandy beaches.",
+    "reviews": [],
+    "photo": "/tour-images/tour-img05.jpg",
+    "featured": false
+  },
+  {
+    "title": "The city of Lakes",
+    "city": "Udaipur, Rajasthan",
+    "distance": 500,
+    "address": "Rajasthan, India",
+    "price": 88,
+    "maxGroupSize": 8,
+    "desc": "Lakes and Palaces of Udaipur are must to Visit and offers experience luxury in India.",
+    "reviews": [],
+    "photo": "/tour-images/tour-img06.jpg",
+    "featured": false
+  },
+  {
+    "title": "The Gateway to Sikkim",
+    "city": "Gangtok",
+    "distance": 500,
+    "address": "Sikkim, India",
+    "price": 79,
+    "maxGroupSize": 8,
+    "desc": "The town during its bright sunny days offers spectacular views of Mt. Kanchenjunga",
+    "reviews": [],
+    "photo": "/tour-images/tour-img07.jpg",
+    "featured": false
+  },
+  {
+    "title": "Kashmir of South India",
+    "city": "Munnar, Kerala",
+    "distance": 500,
+    "address": "Kerala, India",
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "Famous for the tea estates, greenery, winding roads, blanket of mist, and viewpoints.",
+    "reviews": [],
+    "photo": "/tour-images/tour-img08.jpg",
+    "featured": false
+  },
+  {
+    "title": "India's Own Moonland",
+    "city": "Leh Ladakh",
+    "distance": 300,
+    "address": "Ladakh Union Territory, India",
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "Ladakh is a union territory in the Kashmir region of India.It is world's coldest desert.",
+    "reviews": [],
+    "photo": "/tour-images/tour-img09.jpg",
+    "featured": false
+  },
+  {
+    "title": "Beaches, Sunsets and Crazy Nights",
+    "city": "Goa",
+    "distance": 500,
+    "address": "Goa, India",
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "Goa is India's smallest state and known for its eclectic seafood, world-heritage listed architecture.",
+    "reviews": [],
+    "photo": "/tour-images/tour-img10.jpg",
+    "featured": false
+  }
+]
